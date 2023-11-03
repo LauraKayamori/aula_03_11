@@ -7,7 +7,7 @@
 
 !(![image](https://github.com/LauraKayamori/aula_03_11/assets/148537115/a53cf320-36b8-4a45-a990-a19ee1951bb7))
 
-***python
+'''python
 print("Batat frita pala pala")
 print("é uma tara de sabor")
 
